@@ -1,0 +1,24 @@
+==========================
+Code repositiory servers
+==========================
+
+Code repository servers are needed beacuse
+1. Code Intigartion at one place
+2. Code Monitoring/Code changes tracking (Who,When,What,why)
+
+We have serval code respositories available in the market
+1. SVN- outdated
+2. GitHub
+3. bitBucket
+
+======
+GitHub
+======
+-> cloud based source code repository server and maintaining by Microsoft
+-> Trail and commercial (More sercurity and more features) plans are available.
+
+Git Env setup:
+==============
+-> To Use github as repo server we need to create account(URL: www.github.com)
+-> To communucate with GitHub we need to dowload and install git client.(URL : https://git-scm.com/downloads)
+->
